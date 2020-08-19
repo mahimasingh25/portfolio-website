@@ -1,0 +1,105 @@
+body{
+  background-color: #e3fdfd;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 2.5;
+  color: #3e3636;
+}
+h1{
+  font-family: 'Sacramento';
+  font-weight: 400;
+  font-size: 50px;
+  color: #00adb5;
+}
+h2{
+  padding: 10px;
+  font-family: 'Laila', serif;
+  font-weight: bolder;
+  color: #0d7377;
+}
+h3, h4{
+  color: #29a19c;
+}
+.navbar{
+  background-color: #71c9ce;
+  padding: 10px;
+
+}
+.top-container{
+  background-color: #cbf1f5;
+  padding: 20px;
+}
+
+.skill{
+  margin-top: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+}
+.code-img{
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.pencil-img{
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
+.projects{
+  padding: 20px;
+  width: 50%;
+  display: inline-block;
+}
+#contact-me{
+  background-color: #cbf1f5;
+  padding: 30px;
+}
+.contact-list{
+  display: flex;
+  width: 100%;
+}
+
+.contact-title{
+  padding-bottom: 50px;
+}
+
+.icon{
+  margin: auto;
+  margin-bottom: 20px;
+}
+.contact-item{
+  display: flex;
+  width: 33%;
+  justify-content: space-evenly;
+}
+.about-icon{
+  float: right;
+  width: 31%;
+}
+.bottom-container{
+  background-color: #71c9ce;
+  padding: 20px;
+  padding-bottom: 8px;
+}
+.know-more{
+  margin: 50px auto 200px auto;
+  text-align: left;
+  width: 60%;
+}
+.profile-pic{
+  width: 200px;
+  margin: 40px;
+}
+.icon{
+  width: 40px;
+}
+.icon:hover{
+  background-color: #faf2f2;
+}
+.copyright{
+  margin-top: 30px;
+}
